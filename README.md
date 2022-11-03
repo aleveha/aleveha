@@ -2,7 +2,7 @@
 👨‍💻 I'm a full-stack developer<br>
 🌱 I work a lot with TypeScript (client and server), Python and sometimes C#<br>
 💡I like to create new projects from scratch alone as well as work in a team.<br>
-💬 Want to know more about me? Feel free to contact me!
+💬 Want to know more? Feel free to contact me!
 <br />
 <br />
 
@@ -15,7 +15,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 <br/>
 
-#### Backend
+#### Backend:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
