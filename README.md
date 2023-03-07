@@ -1,7 +1,8 @@
 ## About Me:
 👨‍💻 I'm a full-stack developer<br>
 🌱 I work a lot with TypeScript (client and server), Python and sometimes C#<br>
-💡I like to create new projects from scratch alone as well as work in a team.<br>
+💡 I like to create new projects from scratch alone as well as work in a team.<br>
+😍 Feel in love with Go!<br>
 💬 Want to know more? Feel free to contact me!
 <br />
 <br />
@@ -44,6 +45,7 @@
 #### Other:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 <br />
 <br />
 
@@ -52,6 +54,6 @@
 <br />
 
 ## Get in touch with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aleveha21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aleveha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-tashchilin-8427b7166) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aleveha21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aleveha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-tashchilin) 
 <br />
 <br />
