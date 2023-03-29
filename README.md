@@ -1,5 +1,5 @@
 ## About Me:
-👨‍💻 I'm a full-stack developer<br>
+👨‍💻 I'm a Full Stack Developer<br>
 🌱 I work a lot with TypeScript (client and server), Python and sometimes C#<br>
 💡 I like to create new projects from scratch alone as well as work in a team.<br>
 😍 Feel in love with Go!<br>
